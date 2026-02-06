@@ -8,7 +8,7 @@ A modern, luxury-styled personal portfolio website built to showcase my skills, 
 ---
 
 ## 🚀 Live Preview
-👉       
+👉 https://lubisan.github.io/Portfolio/      
 
 ---
 
